@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""function""" 
+"""function"""
 from collections import deque
 
 
