@@ -1,6 +1,10 @@
 #!/usr/bin/python3
-""" """
+""" write a method that calculates the fewest number of
+operations needed to result in exactly n H characters """
+
+
 def minOperations(n):
+    """returns an integer """
     if n <= 1:
         return 0
 
